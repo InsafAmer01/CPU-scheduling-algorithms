@@ -1,0 +1,9 @@
+	/*for (int i = 0; i < readyQ.length; i++)
+			System.out.println(readyQ[i].toString());
+		System.out.println("...................................");
+		for (int i = 0; i < jobQ.length; i++)
+			System.out.println(jobQ[i].toString());
+		System.out.println("...................................");
+		for (int i = 0; i < ioQ.length; i++)
+			System.out.println(ioQ[i].toString());*/
+			
